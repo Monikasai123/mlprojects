@@ -1,4 +1,4 @@
-# mlprojects
+# mlprojects(classification and regression)
 practice the code
 we have listed the top machine learning projects for freshers/beginners.
 
